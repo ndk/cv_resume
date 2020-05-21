@@ -4,6 +4,7 @@ Andrey Karpov
 - Based out of Moscow, Russia
 - Website: https://github.com/ndk
 - Email: ndka.dev@gmail.com
+- Skype: https://join.skype.com/invite/nRfMcZQNpDZR
 
 Work Experience
 -----------
