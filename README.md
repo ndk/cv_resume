@@ -2,7 +2,7 @@ Andrey Karpov
 ==========
 - Backend Developer
 - Based out of Moscow, Russia
-- Website: https://github.com/ndk
+- Website: https://www.linkedin.com/in/ndka
 - Email: ndka.dev@gmail.com
 - Skype: https://join.skype.com/invite/nRfMcZQNpDZR
 
