@@ -7,7 +7,7 @@ Andrey Karpov
 - Skype: https://join.skype.com/invite/nRfMcZQNpDZR
 
 Software Developer with strong expertise in backend development and enterprise solutions.
-- I keep balance between new cutting-edge stuff and time-proved solutions
+- I keep the balance between new cutting-edge stuff and time-proved solutions
 - Unit-testing, TDD, SOLID, KISS - all of them are my best friends
 - I enjoy learning and sharing new knowledge with teammates
 
