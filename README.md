@@ -6,6 +6,13 @@ Andrey Karpov
 - Email: ndka.dev@gmail.com
 - Skype: https://join.skype.com/invite/nRfMcZQNpDZR
 
+Software Developer with strong expertise in backend development and enterprise solutions.
+- I keep balance between new cutting-edge stuff and time-proved solutions
+- Unit-testing, TDD, SOLID, KISS - all of them are my best friends
+- I enjoy learning and sharing new knowledge with teammates
+
+Actual technologies: Go(golang), Kafka, gRPC, Kubernetes, Redis, Docker 
+
 Work Experience
 -----------
 * 2018 November - Present: Software Development Team Lead at Mafin (https://mafin.ru)
