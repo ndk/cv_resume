@@ -18,6 +18,7 @@ Work Experience
 * 2018 November - Present: Software Development Team Lead at Mafin (https://mafin.ru)
 
   Mafin is an online car insurance company. My role at Mafin is to design backend architecture, developing PoC, investigating new technologies, seeking their pros and cons, leading the team & developing the project from scratch to a production-ready state, and handling all the other duties of being a team leader like code reviewing and task planning.
+Recently, we've got a Russian award as a BPM-project of the year (http://bpmaward.ru/summary-2019/)! :)
 
   - Go(golang)
   - Kubernetes
