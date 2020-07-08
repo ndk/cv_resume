@@ -106,7 +106,7 @@ Key skills
 - Optimizing Go programs
 - Developing distributed systems
 - Unix systems programming
-- Code desing and architeture
+- Code desing and architecture
 
 Programming languages
 ---------------------
