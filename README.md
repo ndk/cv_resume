@@ -46,7 +46,7 @@ Recently, we've got a Russian award as a BPM-project of the year (http://bpmawar
 
 * 2014 December - 2016 November: Software Development Team Lead at Sputnik Web Portal (https://www.sputnik.ru)
 
-	Sputnik is a web portal that puts together a bunch of social-oriented services. Some of my duties were designing the architecture of email service from scratch, assembling a new team, leads the team ahead by the thorny path full of new technologies and unexpected challenges.
+  Sputnik is a web portal that puts together a bunch of social-oriented services. Some of my duties were designing the architecture of email service from scratch, assembling a new team, leads the team ahead by the thorny path full of new technologies and unexpected challenges.
 
   - Go(golang)
   - C++
