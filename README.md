@@ -18,7 +18,7 @@ Work Experience
 -----------
 * 2018 November - Present: Software Development Team Lead at Mafin (https://mafin.ru)
 
-  Mafin is an online car insurance company. My role at Mafin is to design backend architecture, developing PoC, investigating new technologies, seeking their pros and cons, leading the team & developing the project from scratch to a production-ready state, and handling all the other duties of being a team leader like code reviewing and task planning.
+  Mafin is an online car insurance company. My role at Mafin is to design backend architecture, developing PoC, investigating new technologies, seeking their pros and cons, leading the team and developing the project from scratch to a production-ready state, and handling all the other duties of being a team leader like code reviewing and task planning.
 Recently, we've got a Russian award as a BPM-project of the year (http://bpmaward.ru/summary-2019/)! :)
 
   - Go(golang)
@@ -65,7 +65,7 @@ Recently, we've got a Russian award as a BPM-project of the year (http://bpmawar
 
 * 2009 December - 2013 March: Software Development Team Lead at Acronis (https://www.acronis.com)
 
-  My first goal in the new position was putting together a new team that should respond to the installation process, making it effortless, faster, and durable. We reworked licensing to fit constantly shifting requirements. My team and I were spreading the best practices around the company like SOLID, KISS, DRY, TDD, unittesting, and etc. Due to the specifics of my responsibilities, I contributed to core parts of products such as database backup, migration from physical machines to virtual and back, data bus, etc. What I'm most proud of is that although my team was made of juniors, it grew incredibly fast, and all of them became mature experts with a solid background.
+  My first goal in the new position was putting together a new team that should respond to the installation process, making it effortless, faster, and durable. We reworked licensing to fit constantly shifting requirements. My team and I were spreading the best practices around the company like SOLID, KISS, DRY, TDD, unittesting, etc. Due to the specifics of my responsibilities, I contributed to core parts of products such as database backup, migration from physical machines to virtual and back, data bus, etc. What I'm most proud of is that although my team was made of juniors, it grew incredibly fast, and all of them became mature experts with a solid background.
 
   - C++
   - VMware ESXi
@@ -101,7 +101,7 @@ Key skills
 - Optimizing Go programs
 - Developing distributed systems
 - Unix systems programming
-- Code desing and architecture
+- Code design and architecture
 
 Programming languages
 ---------------------
