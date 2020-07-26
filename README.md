@@ -96,12 +96,6 @@ Recently, we've got a Russian award as a BPM-project of the year (http://bpmawar
   - ATL/WTL
   - MSSQL
 
-Education
-----------
-- Ulyanovsk State University
-
-	Information technologies.
-
 Key skills
 --------
 - Optimizing Go programs
