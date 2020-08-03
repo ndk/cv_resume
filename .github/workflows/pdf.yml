@@ -18,48 +18,21 @@ jobs:
         input_dir: .
         output_dir: .
         build_html: false
-    - name: release by tag
-      if: ${{ github.ref != 'refs/heads/master' }}
-      uses: actions/create-release@v1
-      id: create_release_by_tag
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: ${{ github.ref }}
-        release_name: Release ${{ github.ref }}
-        draft: false
-        prerelease: false
-    - name: release by sha
-      if: ${{ github.ref == 'refs/heads/master' }}
-      uses: actions/create-release@v1
-      id: create_release_by_sha
+    - uses: actions/create-release@v1
+      id: create_release
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ github.sha }}
-        # release_name: Release ${{ github.sha }}
+        release_name: Release ${{ github.ref }}
         draft: false
         prerelease: false
-        commitish: 'sha'
-    - name: upload by tag
-      if: ${{ github.ref != 'refs/heads/master' }}
-      uses: actions/upload-release-asset@v1
-      id: upload-release-asset-by-tag
+    - uses: actions/upload-release-asset@v1
+      id: upload-release-asset
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        upload_url: ${{ steps.create_release_by_tag.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-        asset_path: ./README.pdf
-        asset_name: akarpov.pdf
-        asset_content_type: application/pdf
-    - name: upload by sha
-      if: ${{ github.ref == 'refs/heads/master' }}
-      uses: actions/upload-release-asset@v1
-      id: upload-release-asset-by-sha
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release_by_sha.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+        upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
         asset_path: ./README.pdf
         asset_name: akarpov.pdf
         asset_content_type: application/pdf
