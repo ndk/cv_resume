@@ -18,13 +18,30 @@ jobs:
         input_dir: .
         output_dir: .
         build_html: false
-    - uses: actions/create-release@v1
+    - name: release by tag
+      if: ${{ github.ref != 'refs/heads/master' }}
+      uses: actions/create-release@v1
       id: create_release
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ github.ref }}
         release_name: Release ${{ github.ref }}
+        body: |
+          Changes in this Release
+          - First Change
+          - Second Change
+        draft: false
+        prerelease: false
+    - name: release by sha
+      if: ${{ github.ref == 'refs/heads/master' }}
+      uses: actions/create-release@v1
+      id: create_release
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.sha }}
+        release_name: Release ${{ github.sha }}
         body: |
           Changes in this Release
           - First Change
