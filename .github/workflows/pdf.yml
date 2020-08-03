@@ -19,6 +19,7 @@ jobs:
         output_dir: .
         build_html: false
     - uses: actions/create-release@v1
+      id: create_release
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
@@ -28,9 +29,10 @@ jobs:
           Changes in this Release
           - First Change
           - Second Change
-        draft: true
-        prerelease: true
+        draft: false
+        prerelease: false
     - uses: actions/upload-release-asset@v1
+      id: upload-release-asset
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
