@@ -1,22 +1,20 @@
 # Andrey Karpov
-
 - Backend Developer
 - Based out of Moscow, Russia
 - Open to remote work and relocation
-- Website: https://www.linkedin.com/in/ndka
+- Linkedin: https://www.linkedin.com/in/ndka
 - Email: ndka.dev@gmail.com
 - Skype: https://join.skype.com/invite/nRfMcZQNpDZR
 
-Software Developer with strong expertise in backend development and enterprise solutions.
-
+## Skills and technologies
+- Developing distributed systems
+- Code design and architecture
 - I keep the balance between new cutting-edge stuff and time-proved solutions
 - Unit-testing, TDD, SOLID, KISS - all of them are my best friends
 - I enjoy learning and sharing new knowledge with teammates
-
-**Current technologies**: Go(golang) | Kafka | gRPC | Kubernetes | Redis | Docker
+- Go(golang) | Kafka | gRPC | Kubernetes | Redis | Docker
 
 ## Work Experience
------------
 * **2018 November - Present: Software Development Team Lead at Mafin** (https://mafin.ru)
 
   Mafin is an online car insurance company. My role at Mafin is to design backend architecture, developing PoC, investigating new technologies, seeking their pros and cons, leading the team and developing the project from scratch to a production-ready state, and handling all the other duties of being a team leader like code reviewing and task planning.
@@ -65,18 +63,3 @@ Software Developer with strong expertise in backend development and enterprise s
   My role at UlSU was designing document automation and workflows of the university.
 
   C++ | ATL/WTL | MSSQL
-
-Key skills
---------
-- Developing distributed systems
-- Code design and architecture
-- Optimizing Go programs
-- Unix systems programming
-
-Programming languages
----------------------
-- Seasoned Go/C++ programmer
-
-Other skills
------------
-- Upper-intermediate English
