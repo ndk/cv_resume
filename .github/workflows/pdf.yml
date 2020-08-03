@@ -51,7 +51,7 @@ jobs:
     - name: upload by tag
       if: ${{ github.ref != 'refs/heads/master' }}
       uses: actions/upload-release-asset@v1
-      id: upload-release-asset
+      id: upload-release-asset-by-tag
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
@@ -62,7 +62,7 @@ jobs:
     - name: upload by sha
       if: ${{ github.ref == 'refs/heads/master' }}
       uses: actions/upload-release-asset@v1
-      id: upload-release-asset
+      id: upload-release-asset-by-sha
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
