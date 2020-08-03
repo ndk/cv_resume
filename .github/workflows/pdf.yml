@@ -25,12 +25,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ github.ref }}
-        release_name: Release ${{ github.ref }}
-        body: |
-          Changes in this Release
-          - First Change
-          - Second Change
+        # tag_name: ${{ github.ref }}
+        # release_name: Release ${{ github.ref }}
         draft: false
         prerelease: false
     - name: release by sha
@@ -40,12 +36,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ github.sha }}
-        release_name: Release ${{ github.sha }}
-        body: |
-          Changes in this Release
-          - First Change
-          - Second Change
+        # tag_name: ${{ github.sha }}
+        # release_name: Release ${{ github.sha }}
         draft: false
         prerelease: false
     - name: upload by tag
