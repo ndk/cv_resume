@@ -1,9 +1,9 @@
 # Andrey Karpov
 ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Moscow, Russia | Open to remote work and relocation
 ### About me
-  I'm a team leader and an engineer with over 18 years of experience in back-end development and enterprise solutions. As an engineer, I've got huge experience working with Go(golang) and C++. Strong skills at unit-testing, TDD, SOLID, and experience in Docker and Kubernetes. I always enjoy learning and sharing new knowledge with my teammates and keep a balance between cutting-edge and time-proven solutions.
+  I'm a team leader and an engineer with over 18 years of experience in backend development and enterprise solutions. As an engineer, I've got huge experience working with Go(golang) and C++. Strong skills at unit-testing, TDD, SOLID, and experience in Docker and Kubernetes. I always enjoy learning and sharing new knowledge with my teammates and keep a balance between cutting-edge and time-proven solutions.
 
-## Skills and technologies
+### Skills and technologies
 - Developing distributed systems
 - Microservice architecture
 - Code design and architecture
@@ -12,7 +12,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Moscow, Russia | Open to
 - Go(golang), Kafka, gRPC/protobuf, REST API, Kubernetes, Redis, Docker, Opentracing(Jaeger), Swagger
 - English upper-intermediate
 
-## Professional Experience
+### Professional Experience
 * ##### 2018 November - Present: Team Leader at Mafin (https://mafin.ru)
 
   Mafin is an online car insurance company. The key feature of the company is an utterly online interaction with clients.
@@ -100,13 +100,13 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Moscow, Russia | Open to
   - Raising the team of juniors engineers to a close-knit gang of mature experts with solid background that sincerely cares about its work outcomes
   - Conducting code reviews
   - Putting the components developed by different teams into an integrated product
-  - Designing and developed the licensing subsystem
+  - Designing and developing the licensing subsystem
 
   **Technologies:** C/C++, VMware ESXi, ATL/WTL, MSI, WIX
 
 * **2006 August - 2009 December: Senior Software Developer at Acronis** (https://www.acronis.com)
 
-  Acronis provides a wide specter of disaster recovery solutions. I was working on a flagman product of the company called "Acronis Backup & Recovery".
+  Acronis provides a wide specter of disaster recovery solutions. I was working on a flagman product of the company called "Acronis Backup & Recovery"
 
   **Personal achievements:**
   - Designed and built the update delivery system
@@ -114,8 +114,8 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Moscow, Russia | Open to
   - Designed and developed the installation process
 
   **Responsibilities:**
-  - Designed the installation process
-  - Conducted code reviews
+  - Designing the installation process
+  - Conducting code reviews
 
   **Technologies:** C/C++, VMware ESXi
 
@@ -127,7 +127,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Moscow, Russia | Open to
   - Developed Active Directory support in the KUB project purposed to keep IT-infrastructure in a consistent state
 
   **Responsibilities:**
-  - Designed and developed Active Directory module.
+  - Designing and developing Active Directory module.
 
   **Technologies:** C/C++, Active Directory
 
@@ -141,10 +141,10 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Moscow, Russia | Open to
   - Reduced the time of report generation from 5.5 hours to about 45 seconds
 
   **Responsibilities:**
-  - Designed and developed the architecture
-  - Built different components of the system
-  - Designed and developed database (MSSQL)
-  - Conducted code reviews
-  - Deployed software to departments of the University
+  - Designing and developed the architecture
+  - Building different components of the system
+  - Designing and developed database (MSSQL)
+  - Conducting code reviews
+  - Deploying software to departments of the University
 
  **Technologies:** C/C++, ATL/WTL, MSSQL
