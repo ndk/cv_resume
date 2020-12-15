@@ -53,7 +53,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   - Developing the backend of the application
   - Performing code review
 
-  **Technologies:** Go(golang), cgo, C/C++, grpc/protobuf, Docker, RabbitMQ, Postgres
+  **Technologies:** Go(golang), cgo, C/C++, gRPC/protobuf, Docker, RabbitMQ, Postgres
 
 * **2014 December - 2016 November: Team Leader at Sputnik Web Portal** (https://www.sputnik.ru)
 
@@ -71,7 +71,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   - Conducting architecture and design discussions
   - Designing the architecture of the service from scratch
 
-  **Technologies:** Go(golang), grpc/protobuf, cgo, C/C++, Redis, Docker, Tarantool, Postgres
+  **Technologies:** Go(golang), gRPC/protobuf, cgo, C/C++, Redis, Docker, Tarantool, Postgres
 
 * **2013 March - 2014 November: Lead Software Developer at Amustware**
 
