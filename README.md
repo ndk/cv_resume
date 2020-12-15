@@ -13,8 +13,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 - English Upper-Intermediate
 
 ### Professional Experience
-* **2018 November - Present: Team Leader at Mafin** (https://mafin.ru)
-
+* #### 2018 November - Present: Team Leader at Mafin (https://mafin.ru)
   Mafin is an online car insurance company, the key feature of which is an utterly online interaction with clients.
 
   **Personal achievements:**
@@ -39,8 +38,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Technologies:** Go(golang), gRPC/protobuf, REST API, Swagger, Kafka, CQRS/ES, Camunda(BPMN engine), Docker, Kubernetes, Redis, Opentracing(Jaeger), MySQL
 
-* **2016 November - 2018 November: Senior Software Engineer at New Cloud Technologies** (https://ncloudtech.com)
-
+* #### 2016 November - 2018 November: Senior Software Engineer at New Cloud Technologies (https://ncloudtech.com)
   New Cloud Technologies is a software company focusing on GoogleDocs-like solutions for private clouds.
 
   **Personal achievements:**
@@ -55,8 +53,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Technologies:** Go(golang), cgo, C/C++, gRPC/protobuf, Docker, RabbitMQ, Postgres
 
-* **2014 December - 2016 November: Team Leader at Sputnik Web Portal** (https://www.sputnik.ru)
-
+* #### 2014 December - 2016 November: Team Leader at Sputnik Web Portal (https://www.sputnik.ru)
   Sputnik is a web portal that puts together a bunch of social-oriented services.
 
   **Personal achievements:**
@@ -73,8 +70,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Technologies:** Go(golang), gRPC/protobuf, cgo, C/C++, Redis, Docker, Tarantool, Postgres
 
-* **2013 March - 2014 November: Senior Software Engineer at Amustware**
-
+* #### 2013 March - 2014 November: Senior Software Engineer at Amustware
   Amustware is a startup that created parental control solutions based on linguistic analysis.
 
   **Responsibilities:**
@@ -84,8 +80,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Technologies:** C++, C#, MongoDB
 
-* **2009 December - 2013 March: Team Leader at Acronis** (https://www.acronis.com)
-
+* #### 2009 December - 2013 March: Team Leader at Acronis (https://www.acronis.com)
   Disaster recovery enterprise solutions.
 
   **Personal achievements:**
@@ -104,8 +99,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Technologies:** C/C++, VMware ESXi, ATL/WTL, MSI, WIX
 
-* **2006 August - 2009 December: Senior Software Engineer at Acronis** (https://www.acronis.com)
-
+* #### 2006 August - 2009 December: Senior Software Engineer at Acronis (https://www.acronis.com)
   Acronis provides a wide spectrum of disaster recovery solutions, the flagman product being "Acronis Backup & Recovery"
 
   **Personal achievements:**
@@ -119,8 +113,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Technologies:** C/C++, VMware ESXi
 
-* **2005 March - 2006 July: Senior Software Engineer at Informzaschita** (https://en.infosec.ru/)
-
+* #### 2005 March - 2006 July: Senior Software Engineer at Informzaschita (https://en.infosec.ru/)
   Informzaschita is a system integrator and the leading service company in Russia specializing in information security solutions for automated systems that serve various purposes and have any degree of complexity.
 
   **Personal achievements:**
@@ -131,8 +124,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Technologies:** C/C++, Active Directory
 
-* **2002 March - 2005 July: Senior Software Engineer at Ulyanovsk State University** (https://ulsu.ru/en)
-
+* #### 2002 March - 2005 July: Senior Software Engineer at Ulyanovsk State University (https://ulsu.ru/en)
   Developed a document automation system.
 
   **Personal achievements:**
