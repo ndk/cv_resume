@@ -127,7 +127,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   - Developed Active Directory support in the KUB project purposed to keep IT-infrastructure in a consistent state
 
   **Responsibilities:**
-  - Designing and developing Active Directory module.
+  - Designing and developing an Active Directory module
 
   **Technologies:** C/C++, Active Directory
 
@@ -147,4 +147,4 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   - Conducting code reviews
   - Deploying software to departments of the University
 
- **Technologies:** C/C++, ATL/WTL, MSSQL
+  **Technologies:** C/C++, ATL/WTL, MSSQL
