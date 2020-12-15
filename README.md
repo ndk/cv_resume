@@ -97,7 +97,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Responsibilities:**
   - Improving the installation process
-  - Raising the team of juniors engineers to a close-knit gang of mature experts with solid background that sincerely cares about its work outcomes
+  - Raising the team of juniors engineers to a close-knit gang of mature experts with a solid background that sincerely cares about its work outcomes
   - Conducting code reviews
   - Putting the components developed by different teams into an integrated product
   - Designing and developing the licensing subsystem
