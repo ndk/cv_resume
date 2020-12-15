@@ -1,7 +1,7 @@
 # Andrey Karpov
 ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and relocation
 ### About me
-  I'm a team leader and an engineer with over 18 years of experience in backend development and enterprise solutions. As an engineer, I've got huge experience working with Go(golang) and C++. Strong skills at unit-testing, TDD, SOLID, and experience in Docker and Kubernetes. I always enjoy learning and sharing new knowledge with my teammates and keep a balance between cutting-edge and time-proven solutions.
+  I'm a team leader and an engineer with over 18 years of experience in backend development and enterprise solutions. As an engineer, I've got huge experience working with Go(golang) and C++. Strong skills at unit-testing, TDD, SOLID, and profound experience in Docker and Kubernetes. I always enjoy learning and sharing new knowledge with my teammates and keep a balance between cutting-edge and time-proven solutions.
 
 ### Skills and technologies
 - Developing distributed systems
@@ -10,12 +10,12 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 - CQRS/Event Sourcing
 - Unit-testing, TDD, SOLID, KISS
 - Go(golang), Kafka, gRPC/protobuf, REST API, Kubernetes, Redis, Docker, Opentracing(Jaeger), Swagger
-- English upper-intermediate
+- English Upper-Intermediate
 
 ### Professional Experience
 * ##### 2018 November - Present: Team Leader at Mafin (https://mafin.ru)
 
-  Mafin is an online car insurance company. The key feature of the company is an utterly online interaction with clients.
+  Mafin is an online car insurance company, the key feature of which is an utterly online interaction with clients.
 
   **Personal achievements:**
   - Led the backend development to a production-ready state
@@ -35,7 +35,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   - Conducting the code review and task planning
 
   **Challenges:**
-  - Although the low-code concept was very promising in terms of flexibility, none of us had got experience at working with this. Hence, I've taken lots of attention to be sure that no pitfalls were expecting our project in further developing
+  - Lack of team experience in Low-Code concept and thus necessity to take measures to ensure no unexpected pitfalls were encountered throughout the project which would hinder the further development
 
   **Technologies:** Go(golang), gRPC/protobuf, REST API, Swagger, Kafka, CQRS/ES, Camunda(BPMN engine), Docker, Kubernetes, Redis, Opentracing(Jaeger), MySQL
 
@@ -45,7 +45,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Personal achievements:**
   - Built the indexing and searching subsystem
-  - Taught teammates new tricks such as unit-testing and SOLID
+  - Taught teammates new skills like unit-testing and SOLID
   - Involved Docker as a pivot of developing and deploying
 
   **Responsibilities:**
@@ -69,7 +69,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   **Responsibilities:**
   - Leading the team ahead through the thorny path full of new technologies and unexpected challenges
   - Conducting architecture and design discussions
-  - Being responsible for creating a product roadmap, managing stakeholder relation, and supporting successful product launches
+  - Being responsible for creating a product roadmap, managing communication with stakeholders, and supporting successful product launches
   - Designing the architecture of the service from scratch
 
   **Technologies:** Go(golang), grpc/protobuf, cgo, C/C++, Redis, Docker, Tarantool, Postgres
@@ -106,7 +106,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
 * **2006 August - 2009 December: Senior Software Developer at Acronis** (https://www.acronis.com)
 
-  Acronis provides a wide specter of disaster recovery solutions. I was working on a flagman product of the company called "Acronis Backup & Recovery"
+  Acronis provides a wide spectrum of disaster recovery solutions, the flagman product being "Acronis Backup & Recovery"
 
   **Personal achievements:**
   - Designed and built the update delivery system
@@ -121,7 +121,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
 * **2005 March - 2006 July: Senior Software Developer at Informzaschita** (https://en.infosec.ru/)
 
-  Informzaschita is a system integrator and the Russian leading service company specializing in information security solutions for automated systems that serve various purposes and have any degree of complexity.
+  Informzaschita is a system integrator and the leading service company in Russia specializing in information security solutions for automated systems that serve various purposes and have any degree of complexity.
 
   **Personal achievements:**
   - Developed Active Directory support in the KUB project purposed to keep IT-infrastructure in a consistent state
