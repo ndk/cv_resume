@@ -75,7 +75,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
 * **2013 March - 2014 November: Senior Software Developer at Amustware**
 
-  Amustware is a startup that created parental control solutions based on linguistic analysis
+  Amustware is a startup that created parental control solutions based on linguistic analysis.
 
   **Responsibilities:**
   - Designing the architecture of the system from scratch
