@@ -73,7 +73,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Technologies:** Go(golang), gRPC/protobuf, cgo, C/C++, Redis, Docker, Tarantool, Postgres
 
-* **2013 March - 2014 November: Lead Software Developer at Amustware**
+* **2013 March - 2014 November: Senior Software Developer at Amustware**
 
   Amustware was a startup that created parental control solutions based on linguistic analysis
 
