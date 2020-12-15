@@ -4,12 +4,12 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   I'm a team leader and an engineer with over 18 years of backend development and enterprise solutions. As an engineer, I've got huge experience working with Go(golang) and C++. Strong skills at unit-testing, TDD, SOLID, and profound experience in Docker and Kubernetes. I always enjoy learning and sharing new knowledge with my teammates and keep a balance between cutting-edge and time-proven solutions.
 
 ### Skills and technologies
+- Go(golang), Kafka, gRPC/protobuf, REST API, Kubernetes, Redis, Docker, Opentracing(Jaeger), Swagger
 - Developing distributed systems
 - Microservice architecture
 - Code design and architecture
 - CQRS/Event Sourcing
 - Unit-testing, TDD, SOLID, KISS
-- Go(golang), Kafka, gRPC/protobuf, REST API, Kubernetes, Redis, Docker, Opentracing(Jaeger), Swagger
 - English Upper-Intermediate
 
 ### Professional Experience
