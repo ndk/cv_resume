@@ -19,7 +19,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 
   **Personal achievements:**
   - Led the backend development to a production-ready state
-  - Worked out the backend architecture, proof-of-concept of the backend service
+  - Worked out the backend architecture, the proof-of-concept of the backend service
   - Built the first versions of the core backend services
   - Researched and introduced the low-code concept based on Camunda (a BPM-engine). Mafin won the Russian Award as a BPM-project of the year (http://bpmaward.ru/summary-2019/)
   - Incorporated and elaborated the CQRS/ES concept based on Kafka
@@ -69,7 +69,6 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   **Responsibilities:**
   - Leading the team ahead through the thorny path full of new technologies and unexpected challenges
   - Conducting architecture and design discussions
-  - Being responsible for creating a product roadmap, managing communication with stakeholders, and supporting successful product launches
   - Designing the architecture of the service from scratch
 
   **Technologies:** Go(golang), grpc/protobuf, cgo, C/C++, Redis, Docker, Tarantool, Postgres
@@ -94,6 +93,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   - Introduced new practices to the company such as unit-testing, TDD, SOLID, KISS, DRY, etc
   - Contributed to core parts of products such as database backup, migration from physical machines to virtual and back, data bus, etc
   - Reworked the local and remote installation process making it smaller, faster, more reliable, and more maintainable
+  - Being responsible for creating a product roadmap, managing communication with stakeholders, and supporting successful product launches
 
   **Responsibilities:**
   - Improving the installation process
