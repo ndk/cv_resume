@@ -81,7 +81,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   **Technologies:** C++, C#, MongoDB
 
 * #### 2009 December - 2013 March: Team Leader at Acronis (https://www.acronis.com)
-  Disaster recovery enterprise solutions.
+  Acronis provides a wide spectrum of disaster recovery enterprise solutions.
 
   ##### Personal achievements:
   - Built and led the team of 4 software engineers
@@ -91,6 +91,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   - Being responsible for creating a product roadmap, managing communication with stakeholders, and supporting successful product launches
 
   ##### Responsibilities:
+  - Contributing to the development of the flagman product of the company called Acronis Backup & Recovery
   - Improving the installation process
   - Raising the team of juniors engineers to a close-knit gang of mature experts with a solid background that sincerely cares about its work outcomes
   - Conducting code reviews
@@ -100,7 +101,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   **Technologies:** C/C++, VMware ESXi, ATL/WTL, MSI, WIX
 
 * #### 2006 August - 2009 December: Senior Software Engineer at Acronis (https://www.acronis.com)
-  Acronis provides a wide spectrum of disaster recovery solutions, the flagman product being "Acronis Backup & Recovery"
+  Acronis provides a wide spectrum of disaster recovery enterprise solutions.
 
   ##### Personal achievements:
   - Designed and built the update delivery system
@@ -108,6 +109,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   - Designed and developed the installation process
 
   ##### Responsibilities:
+  - Contributing to the development of the flagman product of the company called Acronis Backup & Recovery
   - Designing the installation process
   - Conducting code reviews
 
