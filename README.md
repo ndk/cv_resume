@@ -1,7 +1,7 @@
 # Andrey Karpov
 ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and relocation
 ### About me
-  I'm a team leader and an engineer with over 18 years of backend development and enterprise solutions. As an engineer, I've got huge experience working with Go(golang), and C++, strong skills at unit-testing, TDD, SOLID, and have worked extensively with Docker and Kubernetes. I always enjoy learning and sharing new knowledge with my teammates and keep a balance between cutting-edge and time-proven solutions.
+5+ years of Golang using in backend development. Extensive experience working with Docker and Kubernetes. Carried different projects from scratch to the real-world production based on such concepts as microservice architecture, low-code concept, CQRS/ES. I'm considering Unit-testing, TDD, SOLID as the best way to keep the code design in good tonus. I'd be happy to find an application of my skills and experience which I've already got, or explore the vast world of technologies and knowledge looking for possible answers to face the challenges.
 
 ### Skills and technologies
 - Go(golang), Kafka, gRPC/protobuf, REST API, Kubernetes, Redis, Docker, Opentracing(Jaeger), Swagger
@@ -24,6 +24,7 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
   - Incorporated and elaborated the CQRS/ES concept based on Kafka
   - Helped the Technical Support Team to make the functionality of the system more obvious by introducing Opentracing(Jaeger) and integrating it to Camunda Monitor
   - Gathered the metrics to help the Analytics Team to get a clearer vision of our product.
+  - Migrated the backend to Kubernetes
 
   ##### Responsibilities:
   - Managing the team of 5 backend developers
