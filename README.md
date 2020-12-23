@@ -1,8 +1,8 @@
 # Andrey Karpov
 ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and relocation
 ### About me
-5+ years in backend development using Golang. Extensive experience working with Docker and Kubernetes. Numerous projects from scratch to  real-world production based on concepts like microservice architecture, low-code concept, CQRS/ES.
-My aspirations also include working on complex distributed systems, highload/low latency services, as well exploring new ways to tackle a variety of challenges.
+5+ years in backend development using Golang. Extensive experience working with Docker and Kubernetes. Numerous projects from scratch to real-world production based on concepts like microservice architecture, low-code concept, CQRS/ES.
+My aspirations also include working on complex distributed systems, highload/low latency services, as well as exploring new ways to tackle a variety of challenges.
 
 ### Skills and technologies
 - Go(golang), Kafka, gRPC/protobuf, RESTful webservices, Kubernetes, Redis, Docker, Opentracing(Jaeger), Swagger
