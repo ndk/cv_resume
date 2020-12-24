@@ -2,6 +2,7 @@
 ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and relocation
 ### About me
 5+ years in backend development using Golang. Extensive experience working with Docker and Kubernetes. Numerous projects from scratch to real-world production based on concepts like microservice architecture, low-code concept, CQRS/ES.
+
 My aspirations also include working on complex distributed systems, highload/low latency services, as well as exploring new ways to tackle a variety of challenges.
 
 ### Skills and technologies
@@ -18,14 +19,14 @@ My aspirations also include working on complex distributed systems, highload/low
   Mafin is an online car insurance company, the key feature of which is an utterly online interaction with clients.
 
   ##### Personal achievements:
-  - Led the backend development to a production-ready state
-  - Worked out the backend architecture, the proof-of-concept of the backend service
-  - Built the first versions of the core backend services
-  - Researched and introduced the low-code concept based on Camunda (a BPM-engine). Mafin won the Russian Award as a BPM-project of the year (http://bpmaward.ru/summary-2019/)
-  - Incorporated and elaborated the CQRS/ES concept based on Kafka
+  - Completely reworked dispersed through the infrastructure (spread, strewn) definitions of deployment of backend services into easy to maintain ones
+  - Played a decisive role in architectural decisions. Wrote proofs-of-concept, demos, and the first version of the core services. Conducted lots of experiments in company with the product teams to convince our investors that we were on the right way
+  - Endorsed Low-Code Concept. During the experimenting with the product team, we figured out that it would be vital to have the ability to change business flows as easily as possible
+  - Picked up Camunda (https://camunda.com) to be underneath of Low-Code Concept. Camunda is complementary to LCC, letting to represent the backend services as self-contained tasks that could be combined into the flow, orchestrated by the BPM-engine. It's unnecessary to make Camunda a top-orchestrator; it can act as another yet subpart of the backend. Later we won the Russian Award as a BPM-project of the year (http://bpmaward.ru/summary-2019/)
+  - Incorporated and elaborated the CQRS/ES. Further, it became obvious that we got another opportunity to make our backend more reliable and an ability to develop features as pluggable components
+  - Introduced Kafka to broker messages and events. As a continuation of developing the event sourcing idea, Kafka became a base for this. It showed itself quickly as a suitable "source of Truth" in that concept
+  - Built the core services response for such business flows as insurance policies selling as well as a Russian MTPL insurance equivalent, incidents accompaniment, metrics gathering, communication to the mobile application, and the web-client, and many other auxiliary services
   - Helped the Technical Support Team to make the functionality of the system more obvious by introducing Opentracing(Jaeger) and integrating it to Camunda Monitor
-  - Gathered the metrics to help the Analytics Team to get a clearer vision of our product.
-  - Migrated the backend to Kubernetes
 
   ##### Responsibilities:
   - Managing the team of 5 backend developers
