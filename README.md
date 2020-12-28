@@ -20,13 +20,13 @@ My aspirations also include working on complex distributed systems, highload/low
 
   ##### Personal achievements:
   - Played a decisive role in architectural decisions. Wrote proofs-of-concept, demos, and the first version of the core services
-  - Endorsed Low-Code Concept. During the experimenting with the product team, we figured out that it would be vital to have the ability to change business flows as easily as possible
+  - Endorsed Low-Code Concept. It gave the product team the ability to change business flows rapidly
   - Picked up Camunda (https://camunda.com) as the base of Low-Code Concept implementation. Later we won the Russian Award as a BPM-project of the year (http://bpmaward.ru/summary-2019/)
-  - Incorporated and elaborated the CQRS/ES. Further, it became obvious that we got another opportunity to make our backend more reliable and an ability to develop features as pluggable components
-  - Introduced Kafka to broker messages and events. As a continuation of developing the event sourcing idea, Kafka became a base for this
-  - Built the core services responsible for business flows like those for selling insurance policies, handling car accidents, gathering metrics; as well as communications with the mobile application, the web-client; and many other auxiliary services
-  - Completely reworked the definitions of deployment of backend services which were initially dispersed through the infrastructure
-  - Helped the Technical Support Team to make the functionality of the system more obvious by introducing Opentracing(Jaeger) and integrating it to Camunda Monitor
+  - Introduced Kafka as a broker of messages and events.
+  - Incorporated and elaborated the CQRS/ES. It helped us to make our backend more reliable and able to develop features in a pluggable manner
+  - Built the core services responsible for business flows like those for selling insurance policies, handling car accidents, gathering metrics; as well as communications with the mobile application, the web client; and many other auxiliary services
+  - Migrate the backend services from manual deployment to CI/CD rails using Kubernetes, Helm, Gitlab
+  - Helped the Technical Support Team to reduce the issues escalating to the development team. Introducing Opentracing(Jaeger) and integrating it to Camunda Monitor made the system behavior more obvious for them
 
   ##### Responsibilities:
   - Managing the team of 5 backend developers
