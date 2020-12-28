@@ -35,9 +35,6 @@ My aspirations also include working on complex distributed systems, highload/low
   - Working with the Product Team to identify the product strategy and the areas to put effort into
   - Conducting the code review and task planning
 
-  ##### Challenges:
-  - Lack of team experience in Low-Code concept and thus necessity to take measures to ensure no unexpected pitfalls were encountered throughout the project which would hinder the further development
-
   **Technologies:** Go(golang), gRPC/protobuf, REST API, Swagger, Kafka, CQRS/ES, Camunda(BPMN engine), Docker, Kubernetes, Redis, Opentracing(Jaeger), MySQL
 
 * #### 2016 November - 2018 November: Senior Software Engineer at New Cloud Technologies (https://ncloudtech.com)
