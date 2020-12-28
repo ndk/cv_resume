@@ -19,14 +19,13 @@ My aspirations also include working on complex distributed systems, highload/low
   Mafin is an online car insurance company, the key feature of which is an utterly online interaction with clients.
 
   ##### Personal achievements:
-  - Played a decisive role in architectural decisions. Wrote proofs-of-concept, demos, and the first version of the core services
-  - Endorsed Low-Code Concept. It gave the product team the ability to change business flows rapidly
-  - Picked up Camunda (https://camunda.com) as the base of Low-Code Concept implementation. Later we won the Russian Award as a BPM-project of the year (http://bpmaward.ru/summary-2019/)
-  - Introduced Kafka as a broker of messages and events.
-  - Incorporated and elaborated the CQRS/ES. It helped us to make our backend more reliable and able to develop features in a pluggable manner
-  - Built the core services responsible for business flows like those for selling insurance policies, handling car accidents, gathering metrics; as well as communications with the mobile application, the web client; and many other auxiliary services
-  - Migrate the backend services from manual deployment to CI/CD rails using Kubernetes, Helm, Gitlab
-  - Helped the Technical Support Team to reduce the issues escalating to the development team. Introducing Opentracing(Jaeger) and integrating it to Camunda Monitor made the system behavior more obvious for them
+  - Played a decisive role in architectural decisions. Wrote proofs-of-concept, demos, and the first version of the core services.
+  - Endorsed Low-Code Concept. It gave the product team the ability to change business flows rapidly.
+  - Picked up Camunda (https://camunda.com) as the base of Low-Code Concept implementation. Later we won the Russian Award as a BPM-project of the year (http://bpmaward.ru/summary-2019/).
+  - Incorporated and elaborated the CQRS/ES based on Kafka as "the Source of Truth". It helped us to make our backend more reliable and able to develop features in a pluggable manner.
+  - Built the core services responsible for business flows like those for selling insurance policies, handling car accidents, gathering metrics; as well as communications with the mobile application, the web client; and many other auxiliary services.
+  - Migrated the backend services from manual deployment to CI/CD rails using Kubernetes, Helm, Gitlab.
+  - Helped the Technical Support Team to tackle the issues productively. Introducing Opentracing(Jaeger) and integrating it to Camunda Monitor made the system behavior more obvious for them.
 
   ##### Responsibilities:
   - Managing the team of 5 backend developers
@@ -35,9 +34,6 @@ My aspirations also include working on complex distributed systems, highload/low
   - Investigating new technologies and their pros and cons
   - Working with the Product Team to identify the product strategy and the areas to put effort into
   - Conducting the code review and task planning
-
-  ##### Challenges:
-  - Lack of team experience in Low-Code concept and thus necessity to take measures to ensure no unexpected pitfalls were encountered throughout the project which would hinder the further development
 
   **Technologies:** Go(golang), gRPC/protobuf, REST API, Swagger, Kafka, CQRS/ES, Camunda(BPMN engine), Docker, Kubernetes, Redis, Opentracing(Jaeger), MySQL
 
