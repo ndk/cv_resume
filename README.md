@@ -6,7 +6,10 @@ ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and 
 My aspirations also include working on complex distributed systems, highload/low latency services, as well as exploring new ways to tackle a variety of challenges.
 
 ### Skills and technologies
-- Go(golang), Kafka, gRPC/protobuf, RESTful webservices, Kubernetes, Redis, Docker, Opentracing(Jaeger), Swagger
+- Go(golang)
+- gRPC/protobuf, RESTful webservices, Thrift, Swagger
+- Kafka, Redis, DynamoDB/DAX, S3
+- Kubernetes, Docker, Opentracing(Jaeger)
 - Developing distributed systems
 - Microservice architecture
 - Code design and architecture
@@ -23,7 +26,7 @@ My aspirations also include working on complex distributed systems, highload/low
 * #### 2018 November - 2021 January: Lead Software Engineer at Mafin (https://mafin.ru)
   Designed the backend system of an online insurance company from scratch. Led the team of 4 backend developers including planning, mentoring, code reviewing. Responsibility was mainly focused on architectural decisions, investigating, writing proofs-of-concept, code contributing to making the backend easy to adapt to the constant flow of new business requirements.
 
-  **Keywords:** Go(golang), gRPC/protobuf, REST API, Swagger, Kafka, CQRS/ES, Camunda(BPMN engine), Docker, Kubernetes, Redis, Opentracing(Jaeger)
+  **Keywords:** Go(golang), gRPC/protobuf, REST API, Swagger, Kafka, CQRS/ES, Camunda(BPMN engine), Docker, Kubernetes, Redis, Opentracing(Jaeger), S3
 
 * #### 2016 November - 2018 November: Senior Software Engineer at New Cloud Technologies (https://ncloudtech.com)
   Designed and developed the indexing and searching subsystem of GoogleDocs-like solutions for private clouds.
