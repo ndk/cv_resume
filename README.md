@@ -15,129 +15,47 @@ My aspirations also include working on complex distributed systems, highload/low
 - English Upper-Intermediate
 
 ### Professional Experience
-* #### 2018 November - Present: Team Leader at Mafin (https://mafin.ru)
-  Mafin is an online car insurance company, the key feature of which is an utterly online interaction with clients.
+* #### 2021 Febrary - Present: Senior Software Engineer at Reddit (https://www.reddit.com)
+  Worked as an outsourced contractor on the advertise targeting team.
 
-  ##### Personal achievements:
-  - Played a decisive role in architectural decisions. Wrote proofs-of-concept, demos, and the first version of the core services.
-  - Endorsed Low-Code Concept. It gave the product team the ability to change business flows rapidly.
-  - Picked up Camunda (https://camunda.com) as the base of Low-Code Concept implementation. Later we won the Russian Award as a BPM-project of the year (http://bpmaward.ru/summary-2019/).
-  - Incorporated and elaborated the CQRS/ES based on Kafka as "the Source of Truth". It helped us to make our backend more reliable and able to develop features in a pluggable manner.
-  - Built the core services responsible for business flows like those for selling insurance policies, handling car accidents, gathering metrics; as well as communications with the mobile application, the web client; and many other auxiliary services.
-  - Migrated the backend services from manual deployment to CI/CD rails using Kubernetes, Helm, Gitlab.
-  - Helped the Technical Support Team to tackle the issues productively. Introducing Opentracing(Jaeger) and integrating it to Camunda Monitor made the system behavior more obvious for them.
+  **Keywords:** Go(golang), Thrift, DynamoDB/DAX, S3, Terraform, Kubernetes
 
-  ##### Responsibilities:
-  - Managing the team of 5 backend developers
-  - Conducting architecture and design discussions
-  - Designing the backend architecture
-  - Investigating new technologies and their pros and cons
-  - Working with the Product Team to identify the product strategy and the areas to put effort into
-  - Conducting the code review and task planning
+* #### 2018 November - 2021 January: Lead Software Engineer at Mafin (https://mafin.ru)
+  Designed the backend system of an online insurance company from scratch. Led the team of 4 backend developers including planning, mentoring, code reviewing. Responsibility was mainly focused on architectural decisions, investigating, writing proofs-of-concept, code contributing to making the backend easy to adapt to the constant flow of new business requirements.
 
-  **Technologies:** Go(golang), gRPC/protobuf, REST API, Swagger, Kafka, CQRS/ES, Camunda(BPMN engine), Docker, Kubernetes, Redis, Opentracing(Jaeger), MySQL
+  **Keywords:** Go(golang), gRPC/protobuf, REST API, Swagger, Kafka, CQRS/ES, Camunda(BPMN engine), Docker, Kubernetes, Redis, Opentracing(Jaeger)
 
 * #### 2016 November - 2018 November: Senior Software Engineer at New Cloud Technologies (https://ncloudtech.com)
-  New Cloud Technologies is a software company focusing on GoogleDocs-like solutions for private clouds.
+  Designed and developed the indexing and searching subsystem of GoogleDocs-like solutions for private clouds.
 
-  ##### Personal achievements:
-  - Built the indexing and searching subsystem
-  - Taught teammates new skills like unit-testing and SOLID
-  - Involved Docker as a pivot of developing and deploying
-
-  ##### Responsibilities:
-  - Designing the architecture of indexing and searching
-  - Developing the backend of the application
-  - Performing code review
-
-  **Technologies:** Go(golang), cgo, C/C++, gRPC/protobuf, Docker, RabbitMQ, Postgres
+  **Keywords:** Go(golang), cgo, C/C++, gRPC/protobuf, Docker, RabbitMQ, Postgres
 
 * #### 2014 December - 2016 November: Team Leader at Sputnik Web Portal (https://www.sputnik.ru)
-  Sputnik is a web portal that puts together a bunch of social-oriented services.
+  Assembled a great team of 12 skilled backend developers to lead them to build a web portal of social-oriented services. Designed the architecture of the email service from scratch. Led the team ahead through the thorny path full of new technologies and unexpected challenges.
 
-  ##### Personal achievements:
-  - Assembled a great team of 12 skilled backend developers
-  - Built the architecture of the email service from scratch
-  - Led the project to the production-ready state
-  - Introduced Go into the project
-  - Improved technical expertise of a team
-
-  ##### Responsibilities:
-  - Leading the team ahead through the thorny path full of new technologies and unexpected challenges
-  - Conducting architecture and design discussions
-  - Designing the architecture of the service from scratch
-
-  **Technologies:** Go(golang), gRPC/protobuf, cgo, C/C++, Redis, Docker, Tarantool, Postgres
+  **Keywords:** Go(golang), gRPC/protobuf, cgo, C/C++, Redis, Docker, Tarantool, Postgres
 
 * #### 2013 March - 2014 November: Senior Software Engineer at Amustware
-  Amustware is a startup that created parental control solutions based on linguistic analysis.
+  Designing the architecture of parental control solutions based on linguistic analysis from scratch. Built the network sniffing subsystem. Developed the linguistic analysis subsystem.
 
-  ##### Responsibilities:
-  - Designing the architecture of the system from scratch
-  - Building the network sniffing subsystem
-  - Developing the linguistic analysis subsystem
-
-  **Technologies:** C++, C#, MongoDB
+  **Keywords:** C++, C#, MongoDB
 
 * #### 2009 December - 2013 March: Team Leader at Acronis (https://www.acronis.com)
-  Acronis provides a wide spectrum of disaster recovery enterprise solutions.
+  Built and grew the team of 4 junior software engineers to contribute to core parts of the flagman product such as database backup, migration from physical machines to virtual and back, data bus, etc. Reworked the local and remote installation process making it smaller, faster, more reliable, and more maintainable.
 
-  ##### Personal achievements:
-  - Built and led the team of 4 software engineers
-  - Introduced new practices to the company such as unit-testing, TDD, SOLID, KISS, DRY, etc
-  - Contributed to core parts of products such as database backup, migration from physical machines to virtual and back, data bus, etc
-  - Reworked the local and remote installation process making it smaller, faster, more reliable, and more maintainable
-  - Being responsible for creating a product roadmap, managing communication with stakeholders, and supporting successful product launches
-
-  ##### Responsibilities:
-  - Contributing to the development of the flagman product of the company called Acronis Backup & Recovery
-  - Improving the installation process
-  - Raising the team of juniors engineers to a close-knit gang of mature experts with a solid background that sincerely cares about its work outcomes
-  - Conducting code reviews
-  - Putting the components developed by different teams into an integrated product
-  - Designing and developing the licensing subsystem
-
-  **Technologies:** C/C++, VMware ESXi, ATL/WTL, MSI, WIX
+  **Keywords:** C/C++, VMware ESXi, ATL/WTL, MSI, WIX
 
 * #### 2006 August - 2009 December: Senior Software Engineer at Acronis (https://www.acronis.com)
-  Acronis provides a wide spectrum of disaster recovery enterprise solutions.
+  Designed and built the update delivering system. Developed the Smart Error Report system. Designed and developed the installation process.
 
-  ##### Personal achievements:
-  - Designed and built the update delivery system
-  - Developed the Smart Error Report system
-  - Designed and developed the installation process
-
-  ##### Responsibilities:
-  - Contributing to the development of the flagman product of the company called Acronis Backup & Recovery
-  - Designing the installation process
-  - Conducting code reviews
-
-  **Technologies:** C/C++, VMware ESXi
+  **Keywords:** C/C++, VMware ESXi
 
 * #### 2005 March - 2006 July: Senior Software Engineer at Informzaschita (https://en.infosec.ru/)
-  Informzaschita is a system integrator and the leading service company in Russia specializing in information security solutions for automated systems that serve various purposes and have any degree of complexity.
+  Developed Active Directory support in the KUB project purposed to keep IT-infrastructure in a consistent state
 
-  ##### Personal achievements:
-  - Developed Active Directory support in the KUB project purposed to keep IT-infrastructure in a consistent state
+  **Keywords:** C/C++, Active Directory
 
-  ##### Responsibilities:
-  - Designing and developing an Active Directory module
-
-  **Technologies:** C/C++, Active Directory
-
-* #### 2002 March - 2005 July: Senior Software Engineer at Ulyanovsk State University (https://ulsu.ru/en)
-  Developed a document automation system.
-
-  ##### Personal achievements:
-  - Designed the architecture
-  - Shipped full-cycle software for the admission department
-  - Reduced the time of report generation from 5.5 hours to about 45 seconds
-
-  ##### Responsibilities:
-  - Designing and developing the architecture
-  - Building different components of the system
-  - Designing and developing database (MSSQL)
-  - Conducting code reviews
-  - Deploying software to departments of the University
+* #### 2002 March - 2005 July: Software Engineer at Ulyanovsk State University (https://ulsu.ru/en)
+  Developed a document automation system of an university. Shipped full-cycle software for the admission department. Reduced the time of report generation from 5.5 hours to about 45 seconds.
 
   **Technologies:** C/C++, ATL/WTL, MSSQL
