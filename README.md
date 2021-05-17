@@ -31,7 +31,7 @@ My aspirations also include working on complex distributed systems, highload/low
 
   **Keywords:** Go(golang), cgo, C/C++, gRPC/protobuf, Docker, RabbitMQ, Postgres
 
-* #### 2014 December - 2016 November: Team Leader at Sputnik Web Portal (https://www.sputnik.ru)
+* #### 2014 December - 2016 November: Lead Software Engineer at Sputnik Web Portal (https://www.sputnik.ru)
   Assembled a great team of 12 skilled backend developers to lead them to build a web portal of social-oriented services. Designed the architecture of the email service from scratch.
 
   **Keywords:** Go(golang), gRPC/protobuf, cgo, C/C++, Redis, Docker, Tarantool, Postgres
