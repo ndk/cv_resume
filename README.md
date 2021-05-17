@@ -52,7 +52,7 @@ My aspirations also include working on complex distributed systems, highload/low
   **Keywords:** C/C++, VMware ESXi
 
 * #### 2005 March - 2006 July: Senior Software Engineer at Informzaschita (https://en.infosec.ru/)
-  Developed Active Directory support in the KUB project purposed to keep IT-infrastructure in a consistent state
+  Developed Active Directory support in the KUB project purposed to keep IT-infrastructure in a consistent state.
 
   **Keywords:** C/C++, Active Directory
 
