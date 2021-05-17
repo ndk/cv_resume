@@ -51,12 +51,17 @@ My aspirations also include working on complex distributed systems, highload/low
 
   **Keywords:** C/C++, VMware ESXi
 
-* #### 2005 March - 2006 July: Senior Software Engineer at Informzaschita (https://en.infosec.ru/)
+* #### 2005 September - 2006 August: Senior Software Engineer at Informzaschita (https://en.infosec.ru/)
   Developed Active Directory support in the KUB project purposed to keep IT-infrastructure in a consistent state.
 
   **Keywords:** C/C++, Active Directory
 
-* #### 2002 March - 2005 July: Software Engineer at Ulyanovsk State University (https://ulsu.ru/en)
+* #### 2003 February - 2005 August: Lead Software Engineer at Ulyanovsk State University (https://ulsu.ru/en)
+  Developed a document automation system for a university. Shipped full-cycle software for the admission department. Reduced the time of report generation from 5.5 hours to about 45 seconds.
+
+  **Keywords:** C/C++, ATL/WTL, MSSQL
+
+* #### 2002 March - 2003 February: Software Engineer at Ulyanovsk State University (https://ulsu.ru/en)
   Developed a document automation system for a university. Shipped full-cycle software for the admission department. Reduced the time of report generation from 5.5 hours to about 45 seconds.
 
   **Keywords:** C/C++, ATL/WTL, MSSQL
