@@ -11,9 +11,8 @@ My aspirations also include working on complex distributed systems, highload/low
 - gRPC/protobuf, RESTful webservices, Thrift, Swagger
 - Kafka, Redis, DynamoDB/DAX, S3
 - Kubernetes, Docker, Opentracing(Jaeger)
-- Distributed systems, Microservice architecture
-- CQRS/Event Sourcing
-- Code design, Unit-testing, TDD, SOLID, KISS
+- Distributed systems, Microservice architecture, CQRS/Event Sourcing
+- Code design, Unit-testing, TDD, SOLID, KISS, Code reviewing
 - English Upper-Intermediate
 
 ### Professional Experience
