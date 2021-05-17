@@ -41,7 +41,7 @@ My aspirations also include working on complex distributed systems, highload/low
 
   **Keywords:** C++, C#, MongoDB
 
-* #### 2009 December - 2013 March: Team Leader at Acronis (https://www.acronis.com)
+* #### 2009 December - 2013 March: Lead Software Engineer at Acronis (https://www.acronis.com)
   Built a team of 4 junior software engineers to contribute to the core parts of the flagman product such as database backup, migration from physical machines to virtual and back, data bus, etc. Reworked the local and remote installation process making it smaller, faster, more reliable, and maintainable.
 
   **Keywords:** C/C++, VMware ESXi, ATL/WTL, MSI, WIX
