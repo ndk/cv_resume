@@ -1,5 +1,6 @@
 # Andrey Karpov
 ndka.dev@gmail.com | https://www.linkedin.com/in/ndka | Open to remote work and relocation
+
 ### About me
 6+ years using Golang and overall 18+ years of backend development and enterprise solutions. Extensive experience working with Docker and Kubernetes. Numerous projects from scratch to real-world production based on concepts like microservice architecture, low-code concept, CQRS/ES.
 
