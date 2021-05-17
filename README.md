@@ -62,6 +62,6 @@ My aspirations also include working on complex distributed systems, highload/low
   **Keywords:** C/C++, ATL/WTL, MSSQL
 
 * #### 2002 March - 2003 February: Software Engineer at Ulyanovsk State University (https://ulsu.ru/en)
-  Developed a document automation system for a university. Shipped full-cycle software for the admission department. Reduced the time of report generation from 5.5 hours to about 45 seconds.
+  Developed a document automation system for a university. Shipped full-cycle software for the admission department.
 
   **Keywords:** C/C++, ATL/WTL, MSSQL
